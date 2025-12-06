@@ -1,6 +1,6 @@
 <h1 align="center">OLED 'ESP32-BlueJammer'</h1>
 <div align="center">
-  <img src="https://dwdwpld.pages.dev/ESP32-BlueJammerBy@emensta.jpg" alt="ESP32-BlueJammer">
+  <img src="https://raw.githubusercontent.com/neru082454/OLED_ESP32-BlueJammer/refs/heads/main/Gallery/OLED_ESP32_BLUEJAMMER_PREVIEW.JPG" alt="OLED ESP32-BlueJammer">
   <h2 align="center">Jamming is ILLEGAL! Educational purposes only!</h2>
   <h3 align="center">This is a fork, the original creator of the BlueJammer is @emensta, below are their github. Go show some support. </h3>
 </div>
