@@ -1,6 +1,6 @@
 <h1 align="center">OLED 'ESP32-BlueJammer'</h1>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neru082454/OLED_ESP32-BlueJammer/refs/heads/main/Gallery/OLED_ESP32_BLUEJAMMER_PREVIEW.JPG" alt="OLED ESP32-BlueJammer">
+  <img src="https://raw.githubusercontent.com/neru082454/OLED_ESP32-BlueJammer/refs/heads/main/Gallery/OLED_ESP32_BLUEJAMMER_PREVIEW.JPG" alt="OLED ESP32-BlueJammer" width=450>
   <h2 align="center">Jamming is ILLEGAL! Educational purposes only!</h2>
   <h3 align="center">This is a fork, the original creator of the BlueJammer is @emensta, below are their github. Go show some support. </h3>
 </div>
@@ -103,7 +103,7 @@ State 3: WiFi
 State 4: RC  
 
 ### Firmwares:
-- The firmware you choose indicates the operation channel by its name, this means:
+The firmware you choose indicates the operation channel by its name, this means:
 
 Bluetooth_80_CH - jams classic Bluetooth  
 Frequency Range: 2.402 GHz to 2.480 GHz  
@@ -127,9 +127,9 @@ Frequency Range: 2.400 GHz to 2.4835 GHz
 
 ## Hardware - Make your own ESP32-BlueJammer
 
-<img src="https://github.com/neru082454/OLED_ESP32-BlueJammer/blob/main/Gallery/OLED_ESP32_BLUEJAMMER_HARDWARE.JPG?raw=true" alt="OLED ESP32-BlueJammer Hardware">
+<img src="https://github.com/neru082454/OLED_ESP32-BlueJammer/blob/main/Gallery/OLED_ESP32_BLUEJAMMER_HARDWARE.JPG?raw=true" alt="OLED ESP32-BlueJammer Hardware" width=450>
 
-(Aliexpress affiliate links)
+**(Aliexpress affiliate links)**
 
 ### Required:
 
@@ -177,7 +177,7 @@ If your ESP32 does not appear in the device list or is not being recognized, you
  
  <div align="center">
  
- <img src="https://dwdwpld.pages.dev/nRF24L01pinout.png" alt="nRF24L01 PINOUT">
+ <img src="https://dwdwpld.pages.dev/nRF24L01pinout.png" alt="nRF24L01 PINOUT" width=450>
  
 
 ### HSPI
