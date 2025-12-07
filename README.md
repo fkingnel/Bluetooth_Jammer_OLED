@@ -1,10 +1,8 @@
 <h1 align="center">OLED 'ESP32-BlueJammer'</h1>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neru082454/OLED_ESP32-BlueJammer/refs/heads/main/Gallery/OLED_ESP32_BLUEJAMMER_PREVIEW.JPG" alt="OLED ESP32-BlueJammer" width=450>
-  <h2 align="center">Jamming is ILLEGAL! Educational purposes only!</h2>
+  <img src="https://raw.githubusercontent.com/fkingnel/OLED_ESP32-BlueJammer/refs/heads/main/Gallery/OLED_ESP32_BLUEJAMMER_PREVIEW.JPG" alt="OLED ESP32-BlueJammer" width=450>
   <h3 align="center">This is a fork, the original creator of the BlueJammer is @emensta, below are their github. Go show some support. </h3>
 </div>
-
 
 <div align="center">    
 <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer" title="Go to GitHub repo">
@@ -18,6 +16,21 @@
 </a>
 </div>
 
+## <h3 align="center"> DISCLAIMER </h3>
+
+<h3 align="center">Jamming is ILLEGAL. For education only. What follows if misused is on you.</h3>
+  
+<h4 align="center">
+Proceed only if you understand the gravity of what you are engaging with.  
+This tool exists solely for educational insight — nothing more.  
+Any attempt to use it for unlawful or unethical purposes is not only forbidden,  
+but may draw consequences far beyond your control.
+</h4>
+
+<h4 align="center">
+Your choices are yours alone… and so are the repercussions.  
+I bear no responsibility for whatever may follow.
+</h4>
 
 <!-- <h4 align="center">
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#hardware---make-your-own-esp32-bluejammer">Make your own</a>
@@ -43,7 +56,6 @@
   <a href="https://emensta.pages.dev">Website</a>
 </h4> -->
 
-
 ## ESP32-BlueJammer
 "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts various devices using an ESP32 and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS).              
                                                                     
@@ -56,10 +68,9 @@ Ideal for controlled disruption and security testing. Based on 2.4GHz communicat
 It has a big range (over 30Meters+ - may vary on your antenna and hardware setup!) on newest Bluetooth versions with casual 2.4GHz antennas, you can easily increase this as well by taking some simple "bigger" router antennas.
 An amplifier (2.4GHz) may be a good option too!
 
-Remember that jamming is illegal and should not be used with malicious intent!"
--@emensta
+Remember that jamming is illegal and should not be used with malicious intent!"  
+<p align="center">-@emensta</p>
 
----
 ## Demonstration Video
 
 https://github.com/user-attachments/assets/f5e9a63b-46d5-453c-8dd0-330a347de92a
@@ -127,7 +138,7 @@ Frequency Range: 2.400 GHz to 2.4835 GHz
 
 ## Hardware - Make your own ESP32-BlueJammer
 
-<img src="https://github.com/neru082454/OLED_ESP32-BlueJammer/blob/main/Gallery/OLED_ESP32_BLUEJAMMER_HARDWARE.JPG?raw=true" alt="OLED ESP32-BlueJammer Hardware" width=450>
+<img src="https://github.com/fkingnel/OLED_ESP32-BlueJammer/blob/main/Gallery/OLED_ESP32_BLUEJAMMER_HARDWARE.JPG?raw=true" alt="OLED ESP32-BlueJammer Hardware" width=450>
 
 **(Aliexpress affiliate links)**
 
@@ -229,17 +240,3 @@ If your ESP32 does not appear in the device list or is not being recognized, you
 |                     |                      |                        | Switch out        |  3V3  |
 
 </div>
-
-  <h1 align="center"> DISCLAIMER </h1>
-
-<h4 align="center">
-Proceed only if you understand the gravity of what you are engaging with.  
-This tool exists solely for educational insight — nothing more.  
-Any attempt to use it for unlawful or unethical purposes is not only forbidden,  
-but may draw consequences far beyond your control.
-</h4>
-
-<h4 align="center">
-Your choices are yours alone… and so are the repercussions.  
-I bear no responsibility for whatever may follow.
-</h4>
