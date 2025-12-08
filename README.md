@@ -73,7 +73,7 @@ Remember that jamming is illegal and should not be used with malicious intent!"
 
 ## Demonstration Video
 
-https://github.com/user-attachments/assets/f5e9a63b-46d5-453c-8dd0-330a347de92a
+https://github.com/user-attachments/assets/7d472047-f0e8-42fb-b2ca-2a3496b82896
 
 ## Operation Channels
 - **Bluetooth** = 79CH  
